@@ -1,0 +1,19 @@
+{
+  "name": "wiredparks",
+  "version": "1.0.0",
+  "description": "poc strava centerparks",
+  "main": "my-app.js",
+  "dependencies": {
+    "framework7-icons": "^0.8.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonas Van Reeth",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/username/repository.git"
+  }
+}
